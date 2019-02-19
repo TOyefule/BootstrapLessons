@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4dabd38b-bb7e-4109-a5d2-dc4cdf656aa9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BookClassAssignment" beforeDir="false" afterPath="$PROJECT_DIR$/../BookClassAssignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CssExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CssExercise/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CssExercise/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CssExercise/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CssExercise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CssExercise/index.html" afterDir="false" />
@@ -35,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+            <state relative-caret-position="1500">
+              <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -65,7 +67,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,15 +171,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550592613209</updated>
-      <workItem from="1550592614781" duration="6720000" />
+      <workItem from="1550592614781" duration="7920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6720000" />
+    <option name="totallyTimeSpent" value="7920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="1103" width="1091" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -221,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
         </state>
       </provider>
     </entry>
